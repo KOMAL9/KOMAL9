@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KOMAL9
 - 👀 I’m interested in React and its ecosystem .
-- 🌱 From building responsive UI components to optimizing performance,currently learning MERN and Next.js.
+- 🌱 Love building responsive UI components and optimizing performance,currently learning MERN and Next.js.
 - 💞️ I’m looking to collaborate on working together as fullstack/frontend developers.
 - 📫 How to reach me komalapril9@gmail.com
 
