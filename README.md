@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Komal.
 - I’m interested in software engineering and research jobs .
-- Have worked as a frontend(react) developer in the past.
 - I’m looking to collaborate on working together as software developers.
 
 
