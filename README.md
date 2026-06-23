@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Komal.
-- I’m interested in software engineering and research jobs .
-- I’m looking to collaborate on working together as software developers.
+# Hi, I'm Komal 👋
 
+Software Engineer passionate about building scalable backend applications and solving real-world problems.
 
-<!---
-KOMAL9/KOMAL9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Tech:** Java, Spring Boot, Microservices, REST APIs, Kafka, PostgreSQL, Docker, Kubernetes, AWS
+
+🌱 Currently exploring distributed systems, cloud-native development, and DSA.
+
+📫 LinkedIn: https://www.linkedin.com/in/komal9singh
